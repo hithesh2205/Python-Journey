@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>Python Programs</title>
-</head>
 <body>
 
   <h1>Python Programs</h1>
